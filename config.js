@@ -16,8 +16,8 @@ global.DATABASE_URI = process.env.DATABASE_URL || ""
 
 global.timezone= process.env.TZ || process.env.TIME_ZONE || "africa/ghana";
 global.github=process.env.GITHUB|| "https://github.com/SuhailTechInfo/Suhail-Md";
-global.gurl  =process.env.GURL  || "https://chat.whatsapp.com/E39qMdWBujOHGVgWBY3XW1";
-global.website=process.env.GURL || "https://chat.whatsapp.com/E39qMdWBujOHGVgWBY3XW1" ; 
+global.gurl  =process.env.GURL  || "https://chat.whatsapp.com/FAn8xgrU2G2Av2waEBqh2r";
+global.website=process.env.GURL || "https://chat.whatsapp.com/FAn8xgrU2G2Av2waEBqh2r" ; 
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://telegra.ph/file/d5b1c3544fedc23e11a06.jpg" ; // SET LOGO FOR IMAGE 
 
 
